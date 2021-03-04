@@ -42,7 +42,7 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 ![Elastic](https://img.shields.io/badge/Elastic%20-%23005571.svg?&style=for-the-badge&logo=Elastic&logoColor=C0E970)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps%20-%234285F4.svg?&style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF)
 ![Restful API](https://img.shields.io/badge/Restul%20-%23BD5350.svg?&style=for-the-badge&logo=D3.js&logoColor=F9A03C)
-![Postman](https://img.shields.io/badge/Postman%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=FFFFFF)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 
 ### Version Control | Coding
@@ -69,7 +69,7 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=FFFFFF)
-![Neo4J](https://img.shields.io/badge/Neo4J%20-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=FF9900)
+![Neo4J](https://img.shields.io/badge/Neo4j%20-%23008CC1.svg?&style=for-the-badge&logo=Neo4j&logoColor=FF9900)
 
 ### CI | Testing
 ![Jasmine](https://img.shields.io/badge/Jasmine%20-%238A4182.svg?&style=for-the-badge&logo=Jasmine&logoColor=FFFFFF)
@@ -77,8 +77,6 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 ### Design | Wireframes
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator%20-%23251200.svg?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=F87900)
-![Adobe Animate](https://img.shields.io/badge/Adobe%20Animate%20-%231E003E.svg?&style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=CC8DF8)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20-%23450135.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=F75EEE)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 
