@@ -39,7 +39,7 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
 ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch%20-%23199900.svg?&style=for-the-badge&logo=Leaflet&logoColor=C0E970)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch%20-%005571.svg?&style=for-the-badge&logo=Leaflet&logoColor=C0E970)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps%20-%234285F4.svg?&style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF)
 ![Restful API](https://img.shields.io/badge/Restul%20-%23BD5350.svg?&style=for-the-badge&logo=D3.js&logoColor=F9A03C)
 ![Postman](https://img.shields.io/badge/Postman%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
