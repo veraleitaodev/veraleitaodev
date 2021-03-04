@@ -41,7 +41,6 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
 ![Elastic](https://img.shields.io/badge/Elastic%20-%23005571.svg?&style=for-the-badge&logo=Elastic&logoColor=C0E970)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps%20-%234285F4.svg?&style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF)
-![Restful API](https://img.shields.io/badge/Restul%20-%23BD5350.svg?&style=for-the-badge&logo=D3.js&logoColor=F9A03C)
 ![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=FFFFFF)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 
