@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## HI! 👋🏻
 
-I am a Full Stack Developer. When I'm not developing, I am most likely hiking or travelling or sticking needles (I'm also an acupuncturist)!
+I am a Full Stack Developer. When I'm not developing, I am most likely hiking, travelling or sticking needles (I'm also an acupuncturist)!
 
 ---
 
