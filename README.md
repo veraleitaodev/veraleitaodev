@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **veraleitaodev/veraleitaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +18,8 @@ Here are some ideas to get you started:
 ## HI! 👋🏻
 
 I am a Full Stack Developer. When I'm not developing, I am most likely hiking, travelling or sticking needles (I'm also an acupuncturist)!
+
+- 🌱 I’m currently learning how to use elasticsearch! I'm very interested in building Flask and Django API and integrating these to data analysis. Looking forward to know all about this and update my list of skills!
 
 ---
 
