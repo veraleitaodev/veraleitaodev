@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## HI! 👋🏻
 
-I am a Full Stack Developer. When I'm not developing, I am most likely hiking, travelling or sticking needles (I'm also an acupuncturist)!
+I am a Full Stack Developer. When I'm not developing, I am most likely hiking, travelling or watching movies with the kids!
 
 - 🌱 I’m currently learning how to use elasticsearch! I'm very interested in building Flask and Django API and integrating these to data analysis. Looking forward to know all about this and update my list of skills!
 
@@ -59,7 +59,7 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/travel-tim-nelson)
 ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF)
 
-### Hosting | SaaS | PaaS
+### Hosting | SaaS 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 
