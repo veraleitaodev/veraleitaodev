@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a Full Stack Developer. When I'm not developing, I am most likely hiking, travelling or watching movies with the kids!
 
-- 🌱 I’m currently learning how to use elasticsearch! I'm very interested in building Flask and Django API and integrating these to data analysis. Looking forward to know all about this and update my list of skills!
+🌱 I’m currently learning how to use elasticsearch! I'm very interested in building Flask and Django API and integrating these to data analysis. Looking forward to know all about this and update my list of skills!
 
 ---
 
