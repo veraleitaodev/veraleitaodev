@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## HI! 👋🏻
 
-I am a Full Stack Developer. When I'm not developing, I am most likely hiking, travelling or watching movies with the kids!
+I am a Full Stack Developer. When I'm not programming, I am most likely hiking, travelling or watching movies with the kids!
 
 🌱 I’m currently brushing up on Java so I will be looking to add it to my list of programming  languages very soon!
 
