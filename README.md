@@ -85,7 +85,7 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 
 
-
+---
 ![Makes people Smile](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
 
