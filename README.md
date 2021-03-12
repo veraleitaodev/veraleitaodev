@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a Full Stack Developer. When I'm not developing, I am most likely hiking, travelling or watching movies with the kids!
 
-🌱 I’m currently brushing up on my skills with Java so I will be looking to add Java to my list of skills very soon!
+🌱 I’m currently brushing up on with Java so I will be looking to add it to my list of programming  languages very soon!
 
 ---
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
