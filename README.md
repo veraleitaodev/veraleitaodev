@@ -83,6 +83,6 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20-%23450135.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=F75EEE)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 
-(https://forthebadge.com/images/badges/built-by-developers.svg)
+![Built by Developers](https://forthebadge.com/images/badges/built-by-developers.svg)
 
 
