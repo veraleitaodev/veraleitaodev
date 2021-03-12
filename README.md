@@ -22,6 +22,7 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 🌱 I’m currently learning how to use elasticsearch! I'm very interested in building Flask and Django API and integrating these to data analysis. Looking forward to know all about this and update my list of skills!
 
 ---
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ### Programming Languages
 
@@ -33,6 +34,8 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 
 ### Frameworks | Libraries | APIs
 
+
+![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
@@ -57,6 +60,7 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 ### Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/travel-tim-nelson)
 ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF)
+![Confluence](https://img.shields.io/badge/Confluence%20-%234A154B.svg?&style=for-the-badge&logo=Slack&logoColor=FFFFFF)
 
 ### Hosting | SaaS 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
@@ -78,5 +82,7 @@ I am a Full Stack Developer. When I'm not developing, I am most likely hiking, t
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%23001C25.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=00C3F8)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD%20-%23450135.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=F75EEE)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+
+https://forthebadge.com/images/badges/built-by-developers.svg
 
 
