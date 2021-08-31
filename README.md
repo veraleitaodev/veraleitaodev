@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## HI! 👋🏻
 
-I am a Full Stack Developer. When I'm not programming, I am most likely hiking, travelling or watching movies with the kids!
+I am a Full Stack Web Developer. When I'm not programming, I am most likely hiking, travelling or watching movies with the kids!
 
-🌱 I’m currently brushing up on Java so I will be looking to add it to my list of programming  languages very soon!
+🌱 I’m currently brushing up on Shopify platform! Really enjoying learning to build themes. Next step will be to learn to build apps as I also enjoy the backend ide of programming.
 
 ---
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
