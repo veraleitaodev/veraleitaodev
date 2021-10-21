@@ -38,9 +38,6 @@ I am a Full Stack Web Developer. When I'm not programming, I am most likely hiki
 
 
 ### Frameworks | Libraries | APIs
-
-
-![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
