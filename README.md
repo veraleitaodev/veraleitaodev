@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a Full Stack Web Developer. When I'm not programming, I am most likely hiking, travelling or embarrassing my kids!
 
-🌱 I’m currently brushing up on Shopify platform! Really enjoying learning to build themes.
+🌱 I’m currently brushing up on PHP skills by building a restaurant app using php / laravel.
 
 ---
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
