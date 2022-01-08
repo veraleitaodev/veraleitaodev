@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## HI! 👋🏻
 
-I am a junior Full Stack Web Developer. When I'm not programming, I am most likely hiking, travelling or embarrassing my kids!
+I am a junior Full Stack Web Developer with Learning Disabilities Healthcare background. When I'm not programming, I am most likely hiking, listening to audiobooks or embarrassing my kids in a Comicon!
 
 🌱 I’m currently brushing up on PHP skills by building a restaurant app using php / laravel.
 
